@@ -40,6 +40,7 @@ INSERT INTO client (id, nom, telephone, email) VALUES (1, 'Walid dahdahx', 12345
 INSERT INTO client (id, nom, telephone, email) VALUES (2, 'WAWA EGK', 2345678901, N'WAWA@outlook..com');
 INSERT INTO client (id, nom, telephone, email) VALUES (3, 'Dahdah Messi', 3456789012, N'Dahdah@gmail.com');
 INSERT INTO client (id, nom, telephone, email) VALUES (3, 'Douae Ohm ', 2290756445, N'Douae445@gmail.com');
+INSERT INTO client (id, nom, telephone, email) VALUES (3, 'Sara Eska ', 2290756445, N'Saraeska@gmail.com');
 
 INSERT INTO produit (id, prix, categorie_id) VALUES (1, 99.99, 1);
 INSERT INTO produit (id, prix, categorie_id) VALUES (2, 19.99, 2);
